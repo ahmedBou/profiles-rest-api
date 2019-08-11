@@ -3,6 +3,7 @@
     <words>
       <w>apiview</w>
       <w>authtoken</w>
+      <w>viewset</w>
     </words>
   </dictionary>
 </component>
