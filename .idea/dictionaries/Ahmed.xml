@@ -3,6 +3,13 @@
     <words>
       <w>apiview</w>
       <w>authtoken</w>
+      <w>collectstatic</w>
+      <w>nginx</w>
+      <w>noinput</w>
+      <w>supervisorctl</w>
+      <w>systemctl</w>
+      <w>uwsgi</w>
+      <w>venv</w>
       <w>viewset</w>
     </words>
   </dictionary>
